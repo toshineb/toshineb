@@ -114,6 +114,8 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 ## 📦 GitHub Stats & Activity
 
+![Profile Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=flat-square)
+
 ### 📊 GitHub Stats
 ![Tosin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshineb&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
