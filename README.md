@@ -101,6 +101,11 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 ---
 
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![Power BI](https://img.shields.io/badge/PowerBI-Visual_Expert-yellow?logo=powerbi)
+
+---
+
 ## 📦 GitHub Stats & Activity
 
 <!GitHub stats if desired -->
