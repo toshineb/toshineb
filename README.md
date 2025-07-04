@@ -69,7 +69,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 ## 📚 Education & Certifications
 
 - 🎓 **B.Sc. Economics**, University of Ibadan — *2018–2023*  
-- 🧾 **ACA Certified**, Institute of Chartered Accountants of Nigeria — *2021–2023*  
+- 🧾 **ACA** Certified Chartered Accountants — *2021–2023*  
 - 🎖️ Courses: Econometrics, Public Finance, Corporate Reporting, Advanced Taxation
 
 ---
