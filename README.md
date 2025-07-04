@@ -77,7 +77,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 ## 🥇 Awards & Leadership
 
 - 🗳️ **Chairman, Student Union Electoral Committee**, UI — Screened 300+ applicants with commendation
-- 📈 **JAN (Junior Achievement Nigeria)** — Ongoing leadership in youth innovation
+- 📈 **JA (Junior Achievement)** — Ongoing leadership in youth innovation
 - 💞 **Noble Airstair Charity Foundation** — Social impact contributor since 2019
 
 ---
