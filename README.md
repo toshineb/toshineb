@@ -103,6 +103,12 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/PowerBI-Visual_Expert-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
+![Research](https://img.shields.io/badge/Research-Methodology_Expert-critical?logo=academia)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Econometrics_Pro-orange?logo=r)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Data_Driven_Insights-purple?logo=scikit-learn)
+![VBA](https://img.shields.io/badge/Excel_VBA-Workflow_Automation-lightgrey?logo=visualstudio)
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-Business_Strategy-blueviolet?logo=microsoft-excel)
 
 ---
 
