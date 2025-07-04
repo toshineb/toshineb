@@ -11,7 +11,7 @@ I'm a purpose-driven **Data Analyst and Scientist** with over **5 years of exper
 
 I specialize in **Power BI dashboards**, **Python automation**, **Excel financial models**, and **machine learning pipelines**—all designed to **solve business problems, enhance insights, and empower decision-makers**.
 
-🔎 Whether it’s improving product performance at a global company, forecasting sales for a Nigerian conglomerate, or building a trading bot for crypto enthusiasts—I get data to talk.
+🔎 Whether it’s improving product performance at a global company, forecasting sales for a conglomerate, or building a trading bot for crypto enthusiasts I get data to talk.
 
 ---
 
