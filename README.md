@@ -5,11 +5,11 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 I'm a purpose-driven **Data Analyst and Scientist** with over **5 years of experience** transforming raw data into business strategy. From **research and econometrics** to **financial forecasting**, I bring a unique fusion of academic rigor and real-world problem-solving.
 
-I specialize in **Power BI dashboards**, **Python automation**, **Excel financial models**, and **machine learning pipelines**—all designed to **solve business problems, enhance insights, and empower decision-makers**.
+I specialize in **Power BI dashboards**, **Python automation**, **Excel financial models**, and **machine learning pipelines** all designed to **solve business problems, enhance insights, and empower decision-makers**.
 
 🔎 Whether it’s improving product performance at a global company, forecasting sales for a conglomerate, or building a trading bot for crypto enthusiasts I get data to talk.
 
