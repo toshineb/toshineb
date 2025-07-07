@@ -17,7 +17,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 ## 🚀 What I Do
 
-- 📊 **Data Analytics & Visualization**: Using Power BI, Python, and Excel to uncover business insights
+- 📊 **Data Analytics & Visualization**: Using Power BI, Python, R, and Excel to uncover business insights
 - 🧠 **Predictive Modeling & Machine Learning**: Logistic regression, time series, sentimental analysis and supervised learning
 - 🧾 **Financial Analysis & Forecasting**: Building scalable models in Excel for valuations and strategy
 - 🔬 **Research & Statistical Methods**: Deep dives using DiD, VAR/VEC, ARDL, and STATA/SPSS for policy and academic analysis
