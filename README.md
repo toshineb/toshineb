@@ -30,7 +30,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 | Language | BI & Viz | Modeling | Web/Other |
 |---------|----------|----------|-----------|
 | Python (Pandas, NumPy, Scikit-Learn) | Power BI | Excel (Advanced), EViews, STATA, SPSS, R | SQL, HTML, CSS, Node JS, PHP |
-| Jupyter Notebooks | Power Query | ARDL, DiD, A/B Testing | WordPress, Photoshop, Canva |
+| Jupyter Notebooks | Power Query | ARDL, DiD, A/B Testing, VAR/VEC, GMM, MANOVA, Forest Plot | WordPress, Photoshop, Canva |
 
 ---
 
