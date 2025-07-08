@@ -89,7 +89,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
   - Data Science
   - Financial Analysis
   - Business Intelligence
-  - Research & Policy Consulting
+  - Researcher & Business Consulting
 
 ---
 
