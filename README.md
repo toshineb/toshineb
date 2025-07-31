@@ -34,7 +34,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
 ### 🔷 [OceanX Fisheries End-to-End Power BI Dashboard](https://github.com/toshineb/OceanX-Fisheries-End-to-End-Power-BI-Sales-Product-Analysis)
 > A multi-page Power BI dashboard that drives sales, product, and customer insights for a global seafood distributor.
