@@ -29,8 +29,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 | Language | BI & Viz | Modeling | Web/Other |
 |---------|----------|----------|-----------|
-| Python (Pandas, NumPy, Scikit-Learn) | Power BI, DataBricker, Azure, Streamlit | Excel (Advanced), EViews, STATA, SPSS, R | SQL, Excel, VBA, Data Base, PHP |
-| Jupyter Notebooks, Pytouch | Power Query, ETL | ARDL, DiD, A/B Testing, VAR/VEC, GMM, ML, Forest Plot | WordPress, Photoshop, Canva |
+| Python, R, SQL, DAX, M Language (Power Query for data transformation),SAS, MATLAB, QuickBooks, Bash/Shell scripting (for data pipeline automation) | Power BI, Looker Studio (Google Data Studio), Excel & Google Sheets (Pivot tables, macros), Power Pivot, Plotly Dash / Streamlit / R Shiny | Descriptive Analytics, Diagnostic Analytics, Predictive Modeling, Prescriptive Analytics, Machine Learning, Statistical Analysis, Econometrics, Data Mining, Text & Sentiment Analysis, Financial & Business Modeling (DCF, NPV, Scenario modeling) | ETL / Data Integration, SQL, Excel, AWS (S3, Athena, QuickSight, Glue), Azure (Synapse, Data Lake, Power BI Service), Google Cloud Platform (BigQuery, Data Studio), Data Warehousing, API & Web Scraping |
 
 ---
 
