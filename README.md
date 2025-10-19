@@ -55,7 +55,7 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
 
 ## 🧭 Career Timeline
 
-- 📌 **Data & Research Analyst**, NISER — *Nov 2023 – Present*  
+- 📌 **Data & Research Analyst**, NISER — *Nov 2023 – Dec 2024*  
   Conducted 20+ statistical research analyses; shaped policy via scholarly contributions and econometric models.
 
 - 📌 **Data Scientist**, British Airways (Virtual) — *Jul 2024 – Aug 2024*  
@@ -65,68 +65,3 @@ I specialize in **Power BI dashboards**, **Python automation**, **Excel financia
   Boosted project efficiency (85% on-time delivery); led analytics training in SPSS, STATA, EViews.
 
 ---
-
-## 📚 Education & Certifications
-
-- 🎓 **B.Sc. Economics**, University of Ibadan — *2018–2023*  
-- 🧾 **ACA** Certified Chartered Accountants — *2021–2023*  
-- 🎖️ Courses: Econometrics, Public Finance, Corporate Reporting, Advanced Taxation
-
----
-
-## 🥇 Awards & Leadership
-
-- 🗳️ **Chairman, Student Union Electoral Committee**, UI — Screened 300+ applicants with commendation
-- 📈 **JA (Junior Achievement)** — Ongoing leadership in youth innovation
-- 💞 **Noble Airstair Charity Foundation** — Social impact contributor since 2019
-
----
-
-## 📬 Let's Collaborate!
-
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/tosinbellofin)
-- 🧠 Open to freelance, remote work, and full-time roles in:
-  - Data Science
-  - Financial Analysis
-  - Business Intelligence
-  - Researcher & Business Consulting 
-
----
-
-## 🌱 Currently Learning
-
-- ✨ Advanced Time Series Forecasting (ARIMA, Prophet)
-- 🧪 MLOps and deployment using Streamlit/Dash
-- 💡 Deep dive into behavioral data analytics for product optimization
-
----
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Power BI](https://img.shields.io/badge/PowerBI-Visual_Expert-yellow?logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
-![Research](https://img.shields.io/badge/Research-Methodology_Expert-critical?logo=academia)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Econometrics_Pro-orange?logo=r)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Data_Driven_Insights-purple?logo=scikit-learn)
-![VBA](https://img.shields.io/badge/Excel_VBA-Workflow_Automation-lightgrey?logo=visualstudio)
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-Business_Strategy-blueviolet?logo=microsoft-excel)
-
----
-
-## 📦 GitHub Stats & Activity
-
-![Profile Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=flat-square)
-
-### 📊 GitHub Stats
-![Tosin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshineb&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=toshineb&theme=radical)
-
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshineb&layout=compact&theme=radical&langs_count=10&hide=css,scss&v=2&cache_seconds=180)
-
-
----
-
-> 💡 *“Data is only as powerful as the questions you dare to ask. I ask bold ones.”*  
-— Tosin Bello
