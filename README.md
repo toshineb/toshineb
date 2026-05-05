@@ -1,8 +1,7 @@
-# 👋 Hi there, I'm Tosin Bello Emmanuel
+# 👋 Hi there
 
 🎯 **Data Analyst & Scientist** | 🧠 Strategic Thinker | 💻 Financial Modeling & Forecasting Expert  
- 🌐 [LinkedIn](https://www.linkedin.com/in/tosinbellofin) | 🗂️ [Portfolio](https://github.com/toshineb)
-
+ 
 ---
 
 ## About Me
